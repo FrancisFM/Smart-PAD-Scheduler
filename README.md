@@ -5,7 +5,3 @@ This notebook has been built to take an existing full field development and opti
 ---
 
 It handles hard constraints like drilling and completion windows. Soft constraints are also tracked in order to identify optimized development sequences. 
-
----
-
-This Jupyter notebook was built on the Google Colab platform and it's import and export functionalities are link to it. 
