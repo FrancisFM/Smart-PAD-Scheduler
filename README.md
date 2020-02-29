@@ -8,4 +8,4 @@ It handles hard constraints like drilling and completion windows. Soft constrain
 
 ---
 
-This Jupyter notebook was built on the Google Colab platform and it's import and export functionalities are link to it.
+This Jupyter notebook was built on the Google Colab platform and it's import and export functionalities are link to it. 
